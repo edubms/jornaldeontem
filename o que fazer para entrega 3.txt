@@ -1,0 +1,7 @@
+const news = [{
+    title:"",
+    description:"",
+}]
+
+
+dentro do forEach criar uma div que engloba o titulo  oautor e a descrição e a imagem e vou adicionando dentro do news container 
